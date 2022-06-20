@@ -25,3 +25,4 @@
 ![image](https://user-images.githubusercontent.com/74924310/174347927-e636ea3f-56a0-4834-b0d6-c319ae4855d6.png)
 # Ses Sistemi Komutları Görselleri
 ![image](https://user-images.githubusercontent.com/74924310/174348271-94b05292-84fe-4356-a552-a147baec4916.png)
+# Eğlence Komutları Görselleri
