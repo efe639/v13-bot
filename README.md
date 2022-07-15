@@ -4,7 +4,6 @@
 - İkisinden birini yaptırana diğeri indirlimli geliyor Örnek:(Bot yaptırırsanız tasarım size indirimli gelicek)
 - Yakında tüm tasarım ve bot alışverişi site üzerinden yapılıcak
 # Bazı Kayıt Görselleri
-![image](https://user-images.githubusercontent.com/74924310/174346256-716af830-693e-48ca-b89a-9ab7798e810f.png)
 ![image](https://user-images.githubusercontent.com/74924310/174346277-1b738e25-8ad0-428d-be3f-42e52cf6b4f7.png)
 ![image](https://user-images.githubusercontent.com/74924310/174346292-17b91186-54c6-44f7-aef7-112a032a8bfd.png)
 ![image](https://user-images.githubusercontent.com/74924310/179122428-3bac9c66-5524-49b8-bbb2-82381e6754e0.png)
