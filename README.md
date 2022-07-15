@@ -7,6 +7,9 @@
 ![image](https://user-images.githubusercontent.com/74924310/174346256-716af830-693e-48ca-b89a-9ab7798e810f.png)
 ![image](https://user-images.githubusercontent.com/74924310/174346277-1b738e25-8ad0-428d-be3f-42e52cf6b4f7.png)
 ![image](https://user-images.githubusercontent.com/74924310/174346292-17b91186-54c6-44f7-aef7-112a032a8bfd.png)
+![image](https://user-images.githubusercontent.com/74924310/179122428-3bac9c66-5524-49b8-bbb2-82381e6754e0.png)
+![image](https://user-images.githubusercontent.com/74924310/179122440-09f88616-a6da-4372-a73e-4b87d3f6fe76.png)
+
 # Bazı Ceza Komutları Görselleri
 ![image](https://user-images.githubusercontent.com/74924310/174346629-a982f4ce-c124-44be-a5e1-bcff7598711b.png)
 ![image](https://user-images.githubusercontent.com/74924310/174346689-0aaaca19-9a0f-490e-a156-a12f659a76a1.png)
@@ -18,6 +21,7 @@
 ![image](https://user-images.githubusercontent.com/74924310/174347602-67ee7e45-723a-4a55-84ae-67520f53492c.png)
 ![image](https://user-images.githubusercontent.com/74924310/174347612-ff90a1c0-909a-4643-95b3-a5aaacfbdd66.png)
 ![image](https://user-images.githubusercontent.com/74924310/174350024-ab2769bb-d806-404e-96aa-3e5666ad7f12.png)
+![image](https://user-images.githubusercontent.com/74924310/179122477-81a0787e-98ae-40eb-93ac-9fea1584d6d8.png)
 
 # Stat Komutları Görselleri
 ![image](https://user-images.githubusercontent.com/74924310/174347301-64c50349-a5af-4a2e-bf78-6420074f0525.png)
