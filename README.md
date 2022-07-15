@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/74924310/174346277-1b738e25-8ad0-428d-be3f-42e52cf6b4f7.png)
 ![image](https://user-images.githubusercontent.com/74924310/174346292-17b91186-54c6-44f7-aef7-112a032a8bfd.png)
 ![image](https://user-images.githubusercontent.com/74924310/179122428-3bac9c66-5524-49b8-bbb2-82381e6754e0.png)
-![image](https://user-images.githubusercontent.com/74924310/179122440-09f88616-a6da-4372-a73e-4b87d3f6fe76.png)
+![image](https://user-images.githubusercontent.com/74924310/179287164-3ee9e512-57f8-42ab-93f5-91d74019f7e5.png)
 
 # Bazı Ceza Komutları Görselleri
 ![image](https://user-images.githubusercontent.com/74924310/174346629-a982f4ce-c124-44be-a5e1-bcff7598711b.png)
